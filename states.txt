@@ -1,0 +1,149 @@
+[
+{
+"id" : "1",
+"state" : "andhra pradesh",
+"city" : "amravati"
+},
+{
+"id" : "2",
+"state" : "arunachal pradesh",
+"city" : "itanagar"
+},
+{
+"id" : "3",
+"state" : "assam",
+"city" : "dispur"
+},
+{
+"id" : "4",
+"state" : "bihar",
+"city" : "patna"
+},
+{
+"id" : "5",
+"state" : "chhattisgarh",
+"city" : "atal nagar(naya raipur)"
+},
+{
+"id" : "6",
+"state" : "goa",
+"city" : "panaji"
+},
+{
+"id" : "7",
+"state" : "gujarat",
+"city" : "gandhinagar"
+},
+{
+"id" : "8",
+"state" : "haryana",
+"city" : "chandigarh"
+},
+{
+"id" : "9",
+"state" : "himachal pradesh",
+"city" : "shimla/dharamshala"
+},
+{
+"id" : "10",
+"state" : "jammu and kashmir",
+"city" : "srinagar/jammu"
+},
+{
+"id" : "11",
+"state" : "jharkhand",
+"city" : "ranchi"
+},
+{
+"id" : "12",
+"state" : "karnataka",
+"city" : "bengaluru"
+},
+{
+"id" : "13",
+"state" : "kerala",
+"city" : "thiruvananthapuram"
+},
+{
+"id" : "14",
+"state" : "madhya pradesh",
+"city" : "bhopal"
+},
+{
+"id" : "15",
+"state" : "maharashtra",
+"city" : "mumbai"
+},
+{
+"id" : "16",
+"state" : " manipur",
+"city" : "imphal"
+},
+{
+"id" : "17",
+"state" : "meghalaya",
+"city" : "shillong"
+},
+{
+"id" : "18",
+"state" : "mizoram",
+"city" : "aizawl"
+},
+{
+"id" : "19",
+"state" : "nagaland",
+"city" : "kohima"
+},
+{
+"id" : "20",
+"state" : "odisha(orissa)",
+"city" : "bhubaneswar"
+},
+{
+"id" : "21",
+"state" : "punjab",
+"city" : "chandigarh"
+},
+{
+"id" : "22",
+",state" : "rajasthan",
+"city" : "jaipur"
+},
+{
+"id" : "23",
+"state" : "sikkim",
+"city" : "gangtok"
+},
+{
+"id" : "24",
+"state" : "tamil nadu",
+"city" : "chennai"
+},
+{
+"id" : "25",
+"state" : "telangana",
+"city" : "hyderabad"
+},
+{
+"id" : "26",
+"state" : "tripura",
+"city" : "agartala"
+},
+{
+"id" : "27",
+"state" : "uttar pradesh",
+"city" : "lucknow"
+},
+{
+"id" : "28",
+"state" : "uttarakhand",
+"city" : "dehradun"
+},
+{
+"id" : "29",
+"state" : "west bengal",
+"city" : "kolkata"
+}
+]
+
+
